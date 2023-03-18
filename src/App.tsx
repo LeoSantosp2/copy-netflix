@@ -1,7 +1,9 @@
 import React from 'react';
 
+import MyRoutes from './routes';
+
 function App() {
-    return <h1>Hello World</h1>;
+    return <MyRoutes />;
 }
 
 export default App;
